@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  height: 100vh;
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  justify-content: space-between;
+}
+
+.testColors {
+  /* background-color: ; */
+}
